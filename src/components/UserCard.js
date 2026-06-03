@@ -1,6 +1,6 @@
 function UserCard() {
   const user = {
-    name: "Rishabh",
+    name: "Rishabh Rawattt",
     role: "React Developer",
     company: "Urban Nest Designs",
   };
